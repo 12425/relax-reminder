@@ -1,7 +1,8 @@
 # relax-reminder
-Give eyes a breath
 
 Popup a small count down window when you have been focused on the screen for a while.
+
+![screenshots](https://user-images.githubusercontent.com/1549210/163664192-36a24caf-1ec4-4c02-807e-255ef2235d8e.gif)
 
 This is inspired by [Workrave](https://workrave.org/) and written by pure [Autohotkey](https://www.autohotkey.com/). The window has no fancy stuff, it's nothing but a progress bar.
 
